@@ -816,4 +816,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://happylandsen.github.io/%E3%80%90%E5%81%B7%E5%81%B7%E7%9C%8B%E8%89%B2%E8%89%B2%E3%80%91%E5%A4%96%E5%9C%8B%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%83%85%E4%BE%B6%E9%87%8E%E5%A4%96%E6%89%93x%E7%95%AB%E9%9D%A2%E6%B5%81%E5%87%BA.html</loc>
+    <lastmod>2022-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://happylandsen.github.io/images/(m=e-yaagqaa)(mh=crd1ltptbtphldm4)original_815566121.jpg</image:loc>
+    </image:image>
+  </url>
 </urlset>
